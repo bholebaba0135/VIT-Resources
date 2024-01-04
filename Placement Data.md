@@ -2,7 +2,7 @@
 
 ### Placement Data 2023-2024
 
-|Index|Company|Month|Intership/Fulltime|Role|CTC|Website|Desired Skills|Eligible Branches|Stipend|Location|Service Agreement|Only for Girls?|Students Recruited|
+|<nobr>Index</nobr>|Company|Month|Intership/Fulltime|Role|CTC|Website|Desired Skills|Eligible Branches|Stipend|Location|Service Agreement|Only for Girls?|Students Recruited|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |1|Skylark Drones|July|Both|SDE|8|www.skylarkdrones.com| |M. Tech|25000|Bangalore| | | |
 |2|Microchip|July|Both| |11|www.microchip.com|Embedded C programming, test automation, FPGA setup and testing, Altium, Orcad, Microprocessors|M. Tech|37000|Chennai| | | |
